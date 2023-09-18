@@ -57,6 +57,7 @@ rl.on("close", () => {
 });
 
 # File 1 data (This data is to be transfered to new File)
+
 PS C:\Users\USER\Desktop\App\CU\3rd Sem CU\BackEnd\NodeJs> node p1.js
 ==================================
 Welcome to the Salary Calculator!
