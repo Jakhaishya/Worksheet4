@@ -59,20 +59,13 @@ rl.on("close", () => {
 # File 1 data (This data is to be transfered to new File)
 
 PS C:\Users\USER\Desktop\App\CU\3rd Sem CU\BackEnd\NodeJs> node p1.js
-==================================
 Welcome to the Salary Calculator!
-==================================
-
 Enter the employee's name: kal
 Enter the number of hours worked: 5
 Enter the hourly rate: 700
-
 Salary Calculation for kal
-===============================
 Hours Worked: 5
 Total Salary: $ 3500.00
-===============================
-
 Thank you for using the Salary Calculator. Goodbye!
 
 # Code to Transfer Data From One File to another:-
